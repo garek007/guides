@@ -1,0 +1,75 @@
+<script src="http://www.enjoysandiego.com/share/scripts/guides.js"></script>
+<div class="main-detail-section sdcvb-content meetguides">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="meetguides">
+    <tbody>
+        <tr>
+            <td class="name">Mike Hinkley</td>
+            <td class="title">Founder of Green Flash Brewing Co.</td>
+        </tr>
+        <tr>
+            <td><img width="185" height="250" alt="Troy Johnson" src="~/media/0492091f543d4cbd8b34242884eec85c.ashx" /></td>
+            <td class="description">Mike is the CEO and co-founder (with wife, Lisa) of <a href="~/link.aspx?_id=27A04B8AE2244E58992649274B10FCF5&amp;_z=z">Green Flash Brewing Co</a>. Mike was an enthusiast of local suds (who isn't?), before making beer a career and starting Green Flash in 2002. His West Coast IPA helped establish San Diego as the home of the super-hoppy brew style. The rest of his beers helped establish San Diego as the Craft Beer Capital of America.
+            <span class="next_insider">Next Insider</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="meetguides">
+    <tbody>
+        <tr>
+            <td class="name">Vince Marsaglia</td>
+            <td class="title">Founder of Pizza Port Brewing Company</td>
+        </tr>
+        <tr>
+            <td><img width="185" height="250" src="~/media/a872d45b88d0435da84209f163de79dd.ashx" alt="Troy Johnson" /></td>
+            <td class="description">Vince is a local legend in the San Diego beer scene,  starting Pizza Port in 1987. The pizza-and-pint joints are known for their  funky beach vibe, where even their beer labels are handmade. Oh, and they're  known for really, really good beer, too. Vince's success led to two spin-offs,  Port Brewing and Lost Abbey, so it's safe to say Vince is one of the godfathers  of San Diego beer.
+            <span class="next_insider">Next Insider</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" class="meetguides">
+    <tbody>
+        <tr>
+            <td class="name">Doug Constantiner</td>
+            <td class="title">Founder of Societe Brewing Company</td>
+        </tr>
+        <tr>
+            <td><img width="185" height="250" src="~/media/fecbb2cb0288499a90764bec84160e77.ashx" alt="Troy Johnson" /></td>
+            <td class="description">Doug is one of the new players in the San Diego beer scene  that has a lot of people saying "Cheers!" He chased his dream of professional  brewing to San Diego, where craft beer is a countywide passion. Doug opened Societe with co-founder Travis in 2012, and their tasting room has been filled  with happy hop-heads ever since. Don't bother trying to pick up a  bottle - Societe is only served on tap. <span class="next_insider">Next Insider</span></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div id="colorbox2" style="padding-bottom: 0px; padding-right: 0px; top: 150px; left: 332px; position: absolute; width: 600px; height: 346px;">
+<div id="cboxWrapper" style="height: 346px; width: 600px;">
+<div>
+<div id="cboxTopLeft" style="float: left;"></div>
+<div id="cboxTopCenter" style="float: left; width: 600px;"></div>
+<div id="cboxTopRight" style="float: left;"></div>
+</div>
+<div style="clear: left;">
+<div id="cboxMiddleLeft" style="float: left; height: 346px;"></div>
+<div id="cboxContent" style="float: left; width: 600px; height: 346px;">
+<div id="cboxLoadedContent" style="width: 600px; overflow: hidden; height: 318px; padding: 10px;">
+<iframe frameborder="0" id="vimeo-player-1" name="cbox1457646002814" src="https://player.vimeo.com/video/158375571?api=1&amp;player_id=vimeo-player-1&amp;byline=0&amp;portrait=0&amp;rel=0&amp;height=326&amp;width=580" class="cboxIframe" style="width: 580px; height: 326px;" data-progress="true" data-seek="true"></iframe>
+</div>
+<div id="cboxLoadingOverlay" style="float: left; display: none;"></div>
+<div id="cboxLoadingGraphic" style="float: left; display: none;"></div>
+<div id="cboxTitle" style="float: left; display: block;"></div>
+<div id="cboxCurrent" style="float: left; display: none;"></div>
+<div id="cboxNext" style="float: left; display: none;"></div>
+<div id="cboxPrevious" style="float: left; display: none;"></div>
+<div id="cboxSlideshow" style="float: left; display: none;"></div>
+<div id="cboxClose2" style="float: left;">close</div>
+</div>
+<div id="cboxMiddleRight" style="float: left; height: 346px;"></div>
+</div>
+<div style="clear: left;">
+<div id="cboxBottomLeft" style="float: left;"></div>
+<div id="cboxBottomCenter" style="float: left; width: 600px;"></div>
+<div id="cboxBottomRight" style="float: left;"></div>
+</div>
+</div>
+<div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div>
+</div>
